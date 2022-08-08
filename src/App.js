@@ -8,8 +8,13 @@ import "./App.css";
 // import ChangeGlasses from "./bt2/changeGlasses";
 // import ProductList from "./demoProps/ProductList";
 
+// Bai tap danh sach san pham + gio hang
 // import Home from "../src/ex4/Home";
-import Home from "./test1/Home";
+// import Home from "./test1/Home";
+// import Home from "./TestingOnline/Home";
+
+// Bai tap dat ve xem phim
+import Home from "./Ticket/Home";
 
 function App() {
 	return (
@@ -20,6 +25,9 @@ function App() {
 			{/* <ProductList /> */}
 			{/* <ChangeGlasses /> */}
 			{/* <ProductList /> */}
+			{/* <Home /> */}
+
+			{/* Dat ve xem phim  */}
 			<Home />
 		</div>
 	);

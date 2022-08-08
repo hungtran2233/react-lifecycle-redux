@@ -1,0 +1,35 @@
+.bill_main {
+	padding: 30px 10px;
+}
+
+.bill_main table {
+	background: rgba(0, 0, 0, 0.3);
+}
+
+.bill_main table td {
+	border: 1px solid black;
+}
+
+.bill_main table thead td {
+	color: white;
+	font-weight: bold;
+}
+
+.bill_main table thead th {
+	text-align: center;
+	border: 1px solid black;
+	color: white;
+	font-weight: bold;
+}
+
+.bill_main table tbody td {
+	color: rgb(249, 249, 9);
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.bill_main table tfoot td {
+	color: rgb(249, 249, 9);
+	font-size: 20px;
+	font-weight: bold;
+}

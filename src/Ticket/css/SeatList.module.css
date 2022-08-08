@@ -1,0 +1,21 @@
+.seat_list_main {
+	margin: 20px auto;
+}
+
+.seat_list_main table {
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.seat_list_main table tr:first-child button {
+	background: none;
+	border: none;
+	color: yellow;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.seat_list_main table tr td:first-child {
+	color: yellow;
+	font-size: 24px;
+	font-weight: bold;
+}
